@@ -1,0 +1,22 @@
+{
+    "films": [
+      {
+        "title": "The Matrix",
+        "genre": "Sci-Fi",
+        "star": "Keanu Reeves",
+        "url": "images/thematrix.jpg"
+      },
+      {
+        "title": "Logan",
+        "genre": "Comic Book",
+        "star": "Hugh Jackman",
+        "url": "images/logan.jpg"
+      },
+      {
+        "title": "Inception",
+        "genre": "Sci-fi Action Thriller",
+        "star": "Leonardo DiCaprio",
+        "url": "images/inception.jpg"
+      }
+    ]
+}
