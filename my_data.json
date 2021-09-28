@@ -17,6 +17,30 @@
         "genre": "Sci-fi Action Thriller",
         "star": "Leonardo DiCaprio",
         "url": "images/inception.jpg"
+      },
+      {
+        "title": "Shutter Island",
+        "genre": "Psychological Thriller",
+        "star": "Leonardo DiCaprio",
+        "url": "images/shutter-island.jpg"
+      },
+      {
+        "title": "Antitrust",
+        "genre": "Suspense Thriller",
+        "star": "Ryan Phillipe",
+        "url": "images/antitrust.jpg"
+      },
+      {
+        "title": "Nocturnal Animals",
+        "genre": "Psychological Thriller",
+        "star": "Amy Adams",
+        "url": "images/nocturnal.jpg"
+      },
+      {
+        "title": "The Dark Knight",
+        "genre": "Comic Book",
+        "star": "Heath Ledger",
+        "url": "images/tdk.jpg"
       }
     ]
 }

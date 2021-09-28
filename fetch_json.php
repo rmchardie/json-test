@@ -36,7 +36,7 @@
                 <div class='thumb' style='background-image: url($url);'></div>
                   <article>
                     <h1>$title</h1>
-                    <span>$star</span>
+                    <span>$genre film <br> starring $star</span>
                   </article>
               </a>
             </div>";
